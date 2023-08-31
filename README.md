@@ -1,7 +1,6 @@
 # Web_Scrapping
-Code to web scrap and post that data to another django project
+Code to web scrap using a python library
 
-BeautifulSoup4 is a Python library used for web scraping purposes and has an easy-to-use interface for parsing HTML and XML documents.
+Here is a code snippet demonstrating how to perform web scraping using the Python library BeautifulSoup4. BeautifulSoup4 provides a user-friendly interface for parsing HTML and XML documents, making web scraping tasks more manageable.
 
-This code is used to scrap data from a website which holds meangings of various emojis and parse them to required format so that it can be
-showcased as needed in other projects
+The following code is designed to extract data from a website that contains meanings of various emojis. It parses the data and transforms it into the required format, making it suitable for showcasing in other projects.
